@@ -1,0 +1,10 @@
+C:\git\for_private\CanSatRover\Projects\RoverController\RoverController\bin\Debug\RoverController.exe.config
+C:\git\for_private\CanSatRover\Projects\RoverController\RoverController\bin\Debug\RoverController.exe
+C:\git\for_private\CanSatRover\Projects\RoverController\RoverController\bin\Debug\RoverController.pdb
+C:\git\for_private\CanSatRover\Projects\RoverController\RoverController\obj\Debug\RoverController.csproj.AssemblyReference.cache
+C:\git\for_private\CanSatRover\Projects\RoverController\RoverController\obj\Debug\RoverController.MainForm.resources
+C:\git\for_private\CanSatRover\Projects\RoverController\RoverController\obj\Debug\RoverController.Properties.Resources.resources
+C:\git\for_private\CanSatRover\Projects\RoverController\RoverController\obj\Debug\RoverController.csproj.GenerateResource.cache
+C:\git\for_private\CanSatRover\Projects\RoverController\RoverController\obj\Debug\RoverController.csproj.CoreCompileInputs.cache
+C:\git\for_private\CanSatRover\Projects\RoverController\RoverController\obj\Debug\RoverController.exe
+C:\git\for_private\CanSatRover\Projects\RoverController\RoverController\obj\Debug\RoverController.pdb
